@@ -1,0 +1,22 @@
+.ContactData {
+    width: 80%;
+    margin: 20px auto;
+    text-align: center;
+    border: 1px solid #eee;
+    box-shadow: 0 2px 3px #ccc;
+    box-sizing: border-box;
+    padding: 10px;
+}
+
+.Input{
+    display: block;
+    font-size: 18px;
+    padding: 4px;
+    margin: 5px;
+ 
+    
+}
+.Input:focus{
+
+    outline: none
+}
